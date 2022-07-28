@@ -19,19 +19,20 @@
 
 ---
 
-- 기술 스택
+### 기술 스택
 
-  - **Next.js**
-  - **React**
-  - **JavaScript**
-  - **TypeScript**
-  - **Emotion**
-  - **GraphQL / Apollo**
-  - **Github**
-  - **Docker**
-  - **GCP**
+- **Next.js**
+- **React**
+- **JavaScript**
+- **TypeScript**
+- **Emotion**
+- **GraphQL / Apollo**
+- **Github**
+- **Docker**
+- **GCP**
 
 ---
 
-- Notion
-  - [포트폴리오](https://www.notion.so/Team-Project-Youth-Luxury-474a87bdd00849fba79a74d6ed5d0b67)
+## Notion
+
+- [포트폴리오](https://www.notion.so/Team-Project-Youth-Luxury-474a87bdd00849fba79a74d6ed5d0b67)
